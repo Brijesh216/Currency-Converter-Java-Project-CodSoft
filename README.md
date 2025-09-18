@@ -1,4 +1,4 @@
-# 💱 Currency Converter GUI  
+# 💱 Currency-Converter-Java-Project-CodSoft  
 
 A **Java Swing-based Currency Converter** that fetches **real-time exchange rates** using the [ExchangeRate-API](https://www.exchangerate-api.com/) and provides a smooth, interactive interface for converting between multiple currencies.  
 
@@ -20,18 +20,28 @@ https://www.linkedin.com/posts/brijesh216_java-swing-currencyconverter-activity-
 ---
 
 ## 🛠️ Tech Stack  
-- **Java (Swing GUI)**  
-- **ExchangeRate API**  
-- **JSON Parsing (org.json library)**  
+- ☕ **Java (Swing GUI)**  
+- 🌐 **ExchangeRate API (REST)**  
+- 📑 **JSON Parsing with org.json**  
+- 📦 **Maven** for dependency and build management  
 
 ---
 
-## 📂 Installation & Usage  
+## ⚙️ Installation & Usage  
 
 ```bash
-# Clone the repository
+# 📥 Clone the repository
+git clone https://github.com/Brijesh216/Currency-Converter-Java-Project-CodSoft.git
 
 # Open the project in your IDE (IntelliJ/Eclipse/NetBeans)
-
-# Run the main class
+# ▶️ Run the main class:
 CurrencyConverterAll.java
+```
+
+## 👨‍💻 Author  
+
+**Brijesh Prasad**  
+
+🌐 Connect with me:  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brijesh216)  
+- 💻 [GitHub](https://github.com/brijesh216)  
